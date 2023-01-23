@@ -11,7 +11,7 @@
 
 ### Video Simulasi
 
-[Link Video Anda](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/G-MdBXmYRDM)
+[Link Video Anda](https://youtu.be/G-MdBXmYRDM)
 
 ### Penjelasan Parameter
 Parameter  diubah sesuai dengan yang ada di modul penugasan, kecuali bagian plan dan simulation dimana itu disesuaikan agar rute yang terbentuk sempurna dan efektif
